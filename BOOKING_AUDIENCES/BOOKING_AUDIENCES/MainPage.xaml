@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BOOKING_AUDIENCES"
+             x:Class="BOOKING_AUDIENCES.MainPage">
+
+	<Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    <!--<StackLayout >
+    <StackLayout  BackgroundColor="Blue" >
+            <Label Text="STEP"  HorizontalOptions="Center" FontSize="Large"  />
+        </StackLayout>
+        <ListView>
+            <StackLayout>
+                <Button Text="Bum"></Button>
+            </StackLayout>
+        </ListView>
+    </StackLayout>-->
+</ContentPage>
