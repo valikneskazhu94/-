@@ -11,8 +11,7 @@
 namespace BOOKING_AUDIENCES {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\mak\\documents\\visual studio 2017\\Projects\\BOOKING_AUDIENCES\\BOOKING_AUDI" +
-        "ENCES\\BOOKING_AUDIENCES\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\PKO\\Desktop\\Git\\-\\BOOKING_AUDIENCES\\BOOKING_AUDIENCES\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -13,3 +13,18 @@ c:\users\mak\documents\visual studio 2017\Projects\BOOKING_AUDIENCES\BOOKING_AUD
 c:\users\mak\documents\visual studio 2017\Projects\BOOKING_AUDIENCES\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.App.xaml.g.cs
 c:\users\mak\documents\visual studio 2017\Projects\BOOKING_AUDIENCES\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.dll
 c:\users\mak\documents\visual studio 2017\Projects\BOOKING_AUDIENCES\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.pdb
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\BOOKING_AUDIENCES.dll
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\BOOKING_AUDIENCES.pdb
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.MainPage.xaml.g.cs
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.App.xaml.g.cs
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.dll
+C:\Users\PKO\Desktop\Git\-\BOOKING_AUDIENCES\BOOKING_AUDIENCES\obj\Debug\BOOKING_AUDIENCES.pdb

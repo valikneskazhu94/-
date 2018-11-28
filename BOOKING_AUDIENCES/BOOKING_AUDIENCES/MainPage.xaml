@@ -4,9 +4,7 @@
              xmlns:local="clr-namespace:BOOKING_AUDIENCES"
              x:Class="BOOKING_AUDIENCES.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+
     <!--<StackLayout >
     <StackLayout  BackgroundColor="Blue" >
             <Label Text="STEP"  HorizontalOptions="Center" FontSize="Large"  />
@@ -17,4 +15,24 @@
             </StackLayout>
         </ListView>
     </StackLayout>-->
+    
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+            <Label Grid.ColumnSpan="1" Grid.Row="0"  Text="STEP"  HorizontalTextAlignment="Center" FontSize="Large" BackgroundColor="Blue" />
+        
+        <Label Grid.Column="0" Grid.Row="1" Text="Пара №1" FontSize="Large" Margin="5" ></Label>
+        <Label Grid.Column="1" Grid.Row="1" Text="09:00 - 10:20" HorizontalTextAlignment="End" FontSize="Large" Margin="5"></Label>
+        <Label Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="1" Text="Свободных мест: 15" FontSize="Large" Margin="5,0,0,0"></Label>
+        <Stepper Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="1" Minimum="0" Maximum="15" Increment="1"   />
+    </Grid>
 </ContentPage>
